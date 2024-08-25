@@ -1,0 +1,7 @@
+__pycache__/
+
+Files_*
+
+DB.db
+
+config.py
